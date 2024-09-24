@@ -1,2 +1,2 @@
-# named_entity_recognition
+# Named Entity Recognition
 A quick repo for named entity recognition on Databricks
